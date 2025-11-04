@@ -1,2 +1,3 @@
 # MACHINE-LEARNING-99
  Training your skills 
+![Inteligência Artificial vs Machine Learning](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNoUy_XJeHFhSc9u47YqGWYvlxVky6JpUFw3_dSq2g7dPaJc8M-J0BraYbIxRngsa_agVXx-TGsidyaCvX2_jAhtA1aRCDyH03T__fDZniBT80L2AjoaN8bWVDzYcgtvkapjIFnZVmPO-ZvOajRzl6mnI0Z9vCuB3EF6VwCs5JINJdGJPhOyNuWRRIXEVJ/s1024/1000006154.png)
